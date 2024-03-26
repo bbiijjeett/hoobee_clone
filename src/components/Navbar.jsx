@@ -82,7 +82,7 @@ const Navbar = () => {
           </a>
           <a
             href="#"
-            className="h-11 w-[8rem] md:w-[9rem] text-base md:text-lg font-semibold bg-black text-white  rounded-full flex items-center justify-center"
+            className="h-11 w-[8rem] md:w-[9rem] text-xs md:text-lg font-semibold bg-black text-white  rounded-full flex items-center justify-center"
           >
             get started
           </a>
